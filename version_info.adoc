@@ -1,0 +1,4 @@
+:version-label: Version
+:revdate: March 31, 2021
+:revnumber: 5.34
+:revremark: Special edition of {doctitle}

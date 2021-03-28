@@ -1,0 +1,8 @@
+= Introduction to Physics
+:doctype: book
+:sectlink:
+:sectanchors:
+:toc: left
+:sectnums:
+:license: This book is licensed under https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International License].
+:disclaimer: This book is a work in progress. Please use it at your own discretion.

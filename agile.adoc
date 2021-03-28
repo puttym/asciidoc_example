@@ -1,0 +1,14 @@
+// Introduction to Physics
+include::header.adoc[]
+// Version info
+include::version_info.adoc[]
+// Authors
+include::authors.adoc[]
+
+include::chapters.adoc[]
+
+'''
+
+NOTE: {license}
+
+WARNING: {disclaimer}

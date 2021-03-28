@@ -1,0 +1,12 @@
+Madhukara S Putty <puttym@gmail.com>; Albert Einstein <einstein@princeton.edu>; Richard P Feynman <feynman@caltech.edu>
+
+// About authors
+.About {author_2}
+Prof. {lastname_2} developed the theories of relativity, and loves sailing.
+
+.About {author_3}
+Prof. {lastname_3} developed quantum electrodynamics, and loves playing drums.
+
+.About {author}
+Mr. {lastname} wrote this imaginary book with the other two authors. His email is {email}.
+
